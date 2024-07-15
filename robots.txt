@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://enalmaspe.github.io/sitemap
+Sitemap: https://enalmaspe.github.io/app/sitemap
+Sitemap: https://enalmaspe.github.io/assets/sitemap
+Sitemap: https://enalmaspe.github.io/css/sitemap
+Sitemap: https://enalmaspe.github.io/includes/sitemap
+Sitemap: https://enalmaspe.github.io/item/sitemap
+Sitemap: https://enalmaspe.github.io/src/sitemap
